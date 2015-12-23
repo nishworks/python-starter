@@ -4,6 +4,13 @@ pytz==2015.2
 ipython==4.0.1
 requests==2.6.0
 
+# Code validation
+pep8
+
+# CLI
+tqdm
+click
+
 # Database related packages
 PyMySQL==0.6.6
 SQLAlchemy==1.0.8
